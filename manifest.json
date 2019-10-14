@@ -1,0 +1,38 @@
+{
+  "name": "iFabrix",
+  "short_name": "iFabrix",
+  "start_url": "https://www.ifabrix.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0984e3",
+  "description": "iFabrix.com - Situs online seputar bisnis, pekerjaan, cara mendapatkan uang, kesehatan, kecantikan, teknologi, pendidikan, dan tutorial Android.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-fNwViv30hiQ/XaRtqRORpgI/AAAAAAAAEK8/55A5uZ82f_YhNy4isLQQIsj1s-67KQDrgCLcBGAsYHQ/s1600/ifabrix%2B48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KFvdEOBh76U/XaRtqQ-dPMI/AAAAAAAAEK4/YZ887jYQZhE7SPtWeYrNshFWQlXMvIGWACLcBGAsYHQ/s1600/ifabrix%2B72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7S-M8iE21Do/XaRtrjku3wI/AAAAAAAAELE/EiYwlOxOswYdj7es5XcX1WduDlBVQjziACLcBGAsYHQ/s1600/ifabrix%2B96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-AytMqVvNN54/XaRtqYSDktI/AAAAAAAAELA/ddGg3KLyx_sNZU1ps8GcDUzfmM3-KTG6gCLcBGAsYHQ/s1600/ifabrix%2B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c9BUghbdDs4/XaRtzim4rvI/AAAAAAAAELM/snKdxnUacNw64YYq33VECY8l4xcR4v-bACLcBGAsYHQ/s1600/ifabrix%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Uf0l2KwdILg/XaRtzeRMDAI/AAAAAAAAELI/R6EPwFAyac42S4al_I50KkEDmY85gt69ACLcBGAsYHQ/s1600/ifabrix%2B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-24Ud_O7ORHw/XaRtz_FMPHI/AAAAAAAAELQ/xETgKN-D1h0ZE-Zt1QztZC5PcJynZqeDQCLcBGAsYHQ/s1600/ifabrix%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
